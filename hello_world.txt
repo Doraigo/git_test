@@ -1,1 +1,2 @@
 OMG this is Awesome!!!
+I'm testing right now the command git config --global core.editor "code --wait"
